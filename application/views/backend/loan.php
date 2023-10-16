@@ -67,7 +67,7 @@
                                             <td><?php echo $value->first_name.' '.$value->last_name ?></td>
                                             <td><?php echo $value->em_code ?></td>
                                             <td><?php echo $value->amount ?></td>
-<!--                                            <td><?php #echo $value->interest_percentage.''.'%' ?></td>
+                                <!--       <td><?php #echo $value->interest_percentage.''.'%' ?></td>
                                             <td><?php #echo $value->install_period ?></td> -->
                                             <td><?php echo $value->installment ?></td> 
                                             <td><?php echo $value->dept ?></td> 
@@ -90,7 +90,7 @@
                 </div>
             </div>
         </div>       
-                        <!-- sample modal content -->
+          <!-- sample modal content -->
         <div class="modal fade" id="loanmodel" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel1">
             <div class="modal-dialog modal-lg" role="document">
                 <div class="modal-content ">
