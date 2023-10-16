@@ -35,7 +35,7 @@
                                             <th>Name</th>
                                             <th>Employee Code</th>
                                             <th>Salary Befor</th>
-<!--                                            <th>Interest Percentage </th>
+                                     <!--   <th>Interest Percentage </th>
                                             <th>Installment Period </th>-->
                                             <th>Salary Now </th>
                                             <th>Department </th>
